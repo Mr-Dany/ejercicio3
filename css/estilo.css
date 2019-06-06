@@ -16,5 +16,10 @@ h2 {
 	padding: 10px;
 	border: 1px solid #979797;
 }
-
-
+#menu {
+	background: #A19C9C;
+	
+}
+#menu li{
+	display: inline-block;
+}

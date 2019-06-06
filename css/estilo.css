@@ -26,5 +26,15 @@ h2 {
 #menu li{
 	display: inline-block;
 	padding: 5px;
-
+}
+#seccion{
+	background: #A19C9C;
+	margin: 20px;
+	font: bold 12px verdana;
+}
+#pie{
+	background: #A19C9C;
+	margin: 5px;
+	padding: 20px;
+	text-align: center;
 }

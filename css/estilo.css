@@ -19,8 +19,8 @@ h2 {
 	border: 1px solid #979797;
 }
 #menu {
-	background: #C1BABA;
-	padding: 10px;
+	background: #D6D4D4;
+	padding: 8px;
 	font: bold 13px verdana;
 }
 #menu li{
@@ -28,8 +28,17 @@ h2 {
 	padding: 5px;
 }
 #seccion{
+	width: 600px;
 	background: #A19C9C;
 	margin: 20px;
+	float: left;
+	font: bold 12px verdana;
+}
+#columna{
+	margin: 20px;
+	margin-left:  650px;
+	background: #BCBABA;
+	padding: 20px;
 	font: bold 12px verdana;
 }
 #pie{

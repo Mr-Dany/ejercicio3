@@ -1,5 +1,5 @@
 * {
-  margin: 10px;
+  margin: 0px;
   padding: 0px;
 }
 h1 {
@@ -9,7 +9,9 @@ h2 {
   font: bold 14px verdana, sans-serif;
 }
 #agrupar{
+	margin: 10px;
 	border: 2px solid #070707;
+	padding: 10px;
 }
 #cabecera{
 	background: #FFFCB9;
@@ -17,9 +19,12 @@ h2 {
 	border: 1px solid #979797;
 }
 #menu {
-	background: #A19C9C;
-	
+	background: #C1BABA;
+	padding: 10px;
+	font: bold 13px verdana;
 }
 #menu li{
 	display: inline-block;
+	padding: 5px;
+
 }
